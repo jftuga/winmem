@@ -1,5 +1,5 @@
 # winmem
-Display windows memory information in InfluxDB format
+Display Microsoft Windows memory information in InfluxDB format
 
 See the [release section](https://github.com/jftuga/winmem/releases) for a downloadable Windows binary.
 
